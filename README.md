@@ -10,7 +10,8 @@ npm run dev
 ```
 
 Open `http://localhost:5173` (or the port shown) to view the demo.
-
+Live Demo:
+https://stripe-clone-mu.vercel.app
 Notes:
 - Uses Tailwind CSS for styling and `lucide-react` for icons.
 - The mega menu is implemented in `src/components/MegaMenu.tsx` and laid out from `src/components/NavBar.tsx`.
